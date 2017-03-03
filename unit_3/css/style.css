@@ -1,0 +1,83 @@
+body {
+	background: rgb(200, 179, 159);
+	padding: 0;
+	margin: 0;
+
+}
+
+h1{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 34px;
+	font-weight: normal;
+	color: #14223c;
+	text-align: center;
+
+}
+nav{
+	font-family: "Avenir", sans-serif;
+	font-size: 20px;
+	color: #14223c;
+	text-align: center;
+}
+
+p{
+	font-family: "Open Sans", sans-serif; 
+	font-size: 12px;
+	text-align: center;
+
+}
+
+h3{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 24px;
+	font-weight: normal;
+	color: #14223c;
+	text-align: center;
+
+
+}
+
+h4{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 18px;
+	font-weight: normal;
+	color: #14223c;
+	text-align: center;
+
+
+}
+
+h5{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 14px;
+	font-weight: normal;
+	color: #14223c;
+	text-align: center;
+
+
+}
+
+
+a{
+	align-items: center;
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 20px;
+	font-weight: normal;
+	color: #14223c;
+	text-decoration: none;
+
+}
+
+footer{
+	align-items: center;
+}
+
+ul{
+	text-align: center;
+	list-style-type: none;
+	font-family: "Open Sans", sans-serif; 
+	font-size: 12px;
+	text-align: center;
+	
+
+}
