@@ -1,24 +1,40 @@
-body {
-	background: rgb(200, 179, 159);
+*{
 	padding: 0;
 	margin: 0;
+}
+
+body {
+	background: rgb(200, 179, 159);
 
 }
 
-h1{
+header{
+	padding: 20px;
 	font-family: "Bebas Neue", sans-serif; 
-	font-size: 34px;
+	font-size: 28px;
 	font-weight: normal;
+	font-kerning: 10px;
 	color: #14223c;
+	background: rgb(200, 179, 159);
 	text-align: center;
-
 }
+
 nav{
 	font-family: "Avenir", sans-serif;
 	font-size: 20px;
 	color: #14223c;
 	text-align: center;
 }
+
+main{
+
+}
+
+section{
+	background: #7e5772;
+
+}
+
 
 p{
 	font-family: "Open Sans", sans-serif; 
@@ -31,6 +47,7 @@ h3{
 	font-family: "Bebas Neue", sans-serif; 
 	font-size: 24px;
 	font-weight: normal;
+	padding: 10px;
 	color: #14223c;
 	text-align: center;
 
