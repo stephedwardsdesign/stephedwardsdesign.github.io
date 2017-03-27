@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(BebasNeue.otf);
+}
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #fff;
+	font-size: 16px;
+	color: #2b2e33;
+	text-align: center;
+
+}
+
+header{
+	padding: 10px;
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 28px;
+	font-weight: normal;
+	color: #14223c;
+	background: #ded2c6;
+	text-align: center
+}
+h1{
+	letter-spacing: 2px;
+	padding: 2px 0px 0px 0px;
+}
+
+nav a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #14223c;
+	text-decoration: none;
+	text-align: center;
+	margin: 1em;
+	color: #2b2e33;
+
+}
+
+main{
+	background: #fff;
+}
+
+.about{
+	background: #ded2c6;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	text-align: center;
+	line-height: 2em;
+	letter-spacing: 0.1em;
+	clear:both;
+	
+}
+h2{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 24px;
+	font-weight: normal;
+	padding: 10px 0 5px 0;
+	color: #2b2e33;
+	text-align: center;
+	letter-spacing: 0.1em;
+}
+
+h3{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 18px;
+	font-weight: normal;
+	color: #2b2e33;
+	text-align: center;
+	letter-spacing: 0.1em;
+	margin: 0 0 4.5px 0;
+}
+
+
+.clearfix:after{
+	visibility: hidden;
+	height: 0;
+	font-size: 0;
+	content:"hello";
+	display: block;
+	clear:both;
+}
+
+.wrapper{
+	/*background-color: purple;*/
+    width: 78%;
+    margin: auto;
+}
+
+.column{
+	width: 31.7%;
+    margin: 0.8%;
+    float: left;
+    /*background-color: orange;*/
+}
+
+.column img{
+	width: 100%;
+	max-width: 400px;
+    display: block;
+    margin: auto;
+    padding: 0 0 20px 0;;
+}
+
+
+p{
+	margin: 0em 20em 0em 20em;
+}
+
+h4{
+	font-family: "Bebas Neue", sans-serif; 
+	font-size: 16px;
+	font-weight: normal;
+	color: #2b2e33;
+	text-align: center;
+	letter-spacing: 0.1em;
+}
+
+.contact{
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	text-align: center;
+	line-height: 1.5em;
+	letter-spacing: 0.1em;
+	
+}
+
+footer{
+	align-items: center;
+	background: #ded2c6;
+	color: #2b2e33;
+}
+
+a{
+	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: inherit;
+	text-decoration: none;
+
+}
+
+.rows {
+	width: 100%;
+}
